@@ -26,7 +26,7 @@ If you would like to get involved, you can:
 Alternately, if you just want updates about book progress, [sign up here](https://deft-thinker-5848.ck.page/5733f9e200).
 # Outline
 
-### FinOps for Startups Introduction
+### Introduction. FinOps for Startups
 - What is FinOps?
 - Why FinOps?
 - FinOps culture from day one

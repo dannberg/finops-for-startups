@@ -8,3 +8,5 @@ tags:
 I'm also active in the FinOps community, hosting the monthly virtual NYC FinOps Meetup for nearly three years, and organizing several in-person gathering as well. I was a presenter at the first FinOps X conference in Austin, TX, and currently serve as NE Community Support at the FinOps Foundation.
 
 Over the years, I noticed that most of the information and resources available in the FinOps space are geared towards enterprise companies. I wanted to take a different approach, and look at the small changes that early-stage companies can make to supercharge their businesses.
+
+I live in Brooklyn, New York with my wife and our cat.
