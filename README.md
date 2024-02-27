@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/869aff8b-c740-418f-9358-a8024a2e5913/deploy-status)](https://app.netlify.com/sites/finopsforstartups/deploys)
 # Welcome to FinOps for Startups
 
 _[FinOps for Startups](https://finopsforstartups.com)_ is an upcoming book by [Dann Berg](https://dannb.org). This Github repo, and public-facing [website](https://finopsforstartups.com), is my collection of research for this book.
