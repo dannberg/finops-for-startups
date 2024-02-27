@@ -10,8 +10,8 @@ What is FinOps? As defined by the FinOps Foundation:
 In more basic terms, FinOps is:
 
 - the bridge between engineering and finance
-- a set of best practicies to foster a culture of cloud cost mindfulness
-- a collection of methods and practicies to lower cloud bills
+- a set of best practices to foster a culture of cloud cost mindfulness
+- a collection of methods and practices to lower cloud bills
 
 FinOps for Startups explores how this can be beneficial to early-stage companies, where growth is typically the highest priority, even over cost.
 
