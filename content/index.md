@@ -7,14 +7,12 @@ I'm [Dann Berg](https://dannb.org), and _FinOps for Startups_ is a book I'm writ
 Early-stage companies are usually focused on growth at all costs, which is exactly what they _should_ be focused on. But there are many lessons that startups can take from FinOps that can feel like a cheat code for success.
 
 _FinOps for Startups_ shows how small scrappy companies can use FinOps best practices to build stronger businesses and facilitate a company culture of accountability and cloud cost mindfulness.
-
 ## Who am I?
 I'm [Dann Berg](https://dannb.org) and I've been working in the field of FinOps since roughly 2016 or 2017—before it was called FinOps. I've joined a couple late-stage startups in cloud-cost specific roles, including Datadog and FullStory, where I helped wrangle costs and build out FinOps programs. I also spent a little bit of time on the vendor side, joining a Series A cloud cost visibility and optimization platform startup to help build out community.
 
 I'm also active in the FinOps community, hosting the monthly virtual NYC FinOps Meetup for nearly three years, and organizing several in-person gathering as well. I was a presenter at the first FinOps X conference in Austin, TX, and currently serve as NE Community Support at the FinOps Foundation.
 
 Over the years, I noticed that most of the information and resources available in the FinOps space are geared towards enterprise companies. I wanted to take a different approach, and look at the small changes that early-stage companies can make to supercharge their businesses.
-
 ## Want to help?
 This book is very much a work-in-progress. Any help or expertise you want to lend is appreciated.
 
@@ -27,6 +25,7 @@ If you would like to get involved, you can:
 - [Raise an issue](https://github.com/dannberg/finops-for-startups) on Github
 - Email me at [finopsforstartups@dannb.org](mailto:finopsforstartups@dannb.org)
 
+Alternately, if you just want updates about book progress, [sign up here](https://deft-thinker-5848.ck.page/5733f9e200).
 # Outline
 
 ### FinOps for Startups Introduction
