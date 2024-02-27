@@ -38,7 +38,7 @@ This website is written and published using:
 
 Obsidian is a markdown notetaking application (which I use extensively, just [look at my blog](https://dannb.org/blog/)) and Quartz is a markdown-to-static-site generator purpose-built for Obsidian. Netflify is a simple and free static website host.
 
-## Quartz
+## Using this repo
 
 This is my first time using Quartz, so this section of the README is just going to be some internal notes for me.
 
@@ -48,6 +48,12 @@ Fetch the changes from the upstream repository:
 
 ```
 git fetch upstream
+```
+
+There's no `master` branch. Instead, it's `v4`. So use this command to push commits to Github:
+
+```
+git push -u origin v4
 ```
 
 ## About Dann Berg
