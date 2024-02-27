@@ -44,15 +44,21 @@ This is my first time using Quartz, so this section of the README is just going 
 
 When running the command `git remote -v` we see that this repo is the origin, but `https://github.com/jackyzha0/quartz.git` is upstream for fetch and push. This shows the repo that this was forked from, and is a way to keep quartz updated.
 
+Run the site locally:
+
+```sh
+npx quartz build --serve
+```
+
 Fetch the changes from the upstream repository:
 
-```
+```sh
 git fetch upstream
 ```
 
 There's no `master` branch. Instead, it's `v4`. So use this command to push commits to Github:
 
-```
+```sh
 git push -u origin v4
 ```
 
