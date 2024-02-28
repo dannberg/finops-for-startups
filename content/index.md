@@ -26,14 +26,14 @@ If you would like to get involved, you can:
 Alternately, if you just want updates about book progress, [sign up here](https://deft-thinker-5848.ck.page/5733f9e200).
 # Outline
 
-### Introduction. FinOps for Startups
+### [[Introduction. FinOps for Startups]]
 - What is FinOps?
 - Why FinOps?
 - FinOps culture from day one
 - Speaking FinOps
 - Your cloud bill, demystified
 
-### Chapter 1. The circle of FinOps
+### [[Chapter 1. The circle of FinOps]]
 - FinOps in detail
 - Inform phase
     - Tagging

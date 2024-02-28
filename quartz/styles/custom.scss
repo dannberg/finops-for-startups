@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+h1.page-title {
+  display: inline-block;
+  max-width: 7em; /* Adjust this value based on your font size and actual width needed */
+  line-height: 1.2;
+}
