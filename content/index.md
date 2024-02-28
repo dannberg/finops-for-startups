@@ -10,7 +10,7 @@ _FinOps for Startups_ shows how small scrappy companies can use FinOps best prac
 
 For more about my FinOps experience, check out the [[Who am I?|about me]] page.
 ## Providing feedback
-This book is very much in progress and this website is part of my effort to [[Research in public|research in public]]. Feedback is appreciated!
+This book is very much in progress and this website is part of my effort to [[Book research in public|research in public]]. Feedback is appreciated!
 
 More specifically, I would love to connect with:
 - Subject matter experts
