@@ -1,5 +1,5 @@
 ---
-title: Notes - Introduction. FinOps for Startups
+title: Chamter 0. Introduction
 draft: false
 tags:
   - finops
