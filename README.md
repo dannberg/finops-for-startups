@@ -50,14 +50,30 @@ Run the site locally:
 npx quartz build --serve
 ```
 
-Fetch the changes from the upstream repository:
+Fetch the changes from the upstream repository (Quartz):
 ```sh
 git fetch upstream
 ```
 
-To push local changes to Github, use this command:
+To pull remote changes to local computer:
+```sh
+npx quartz sync --pull
+```
+
+To push local changes to Github:
 ```sh
 npx quartz sync
+```
+
+### Setting up on a new computer
+Currently using NPM version 10.2.4, so make sure to update to that version.
+
+```sh
+npm install -g npm@10.2.4
+git clone https://github.com/dannberg/finops-for-startups.git
+cd finops-for-startups
+npm i
+npx quartz sync --pull
 ```
 
 ## About Dann Berg
