@@ -26,7 +26,7 @@ If you would like to get involved, you can:
 Alternately, if you just want updates about book progress, [sign up here](https://deft-thinker-5848.ck.page/5733f9e200).
 # Outline
 
-### [[Chapter 0. Introduction]]
+### [[Introduction. FinOps for Startups]]
 - What is FinOps?
 - Why FinOps?
 - FinOps culture from day one
@@ -47,18 +47,18 @@ Alternately, if you just want updates about book progress, [sign up here](https:
     - Automation
     - Unit economics
 
-### [[Chapter 2. Cloud Provider Relationships for startups]]
+### Chapter 2. Cloud Provider Relationships for startups
 - Choosing a cloud provider
 - Freebies and deals available to startups
 - Negotiations and discounts
 
-### [[Chapter 3. Adopting FinOps on Day One]]
+### Chapter 3. Adopting FinOps on Day One
 - Low effort, high reward practices
 - Organizing your company
 - Building meaningful visibility
 - How efficient is your business, really?
 
-### [[Chapter 4. Adopting FinOps a Little Later]]
+### Chapter 4. Adopting FinOps a Little Later
 - When it's time to clean things up
     - Before acquisition or IPO
     - Fundraising - might be able to raise less
@@ -66,19 +66,19 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 - When to hire a dedicated FinOps Practitioner
 - Tooling: build vs buy
 
-### [[Chapter 5. FinOps for Venture Capital Part I - VC Perspective]]
+### Chapter 5. FinOps for Venture Capital Part I - VC Perspective
 - What do investors need to know about FinOps?
 - When is FinOps a priority for startups?
 - FinOps as part of due diligence
 - Helping your investments achieve their FinOps goals
 
-### [[Chapter 6. FinOps for Venture Capital Part II - Startup Perspective]]
+### Chapter 6. FinOps for Venture Capital Part II - Startup Perspective
 - When your investors will care about FinOps
 - Setting expectations when talking to investors
 - Building an queue of future cost-saving opportunities
 - FinOps and startup valuations ([finops foundation](https://www.finops.org/wg/accurate-company-valuations-using-finops/))
 
-### [[Chapter 7. FinOps for Private Equity]]
+### Chapter 7. FinOps for Private Equity
 - Identifying companies with big FinOps opportunities
 - High impact strategies post-merger
 - Strategically rolling out FinOps Programs across portfolio
