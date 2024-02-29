@@ -1,0 +1,32 @@
+---
+title: 2024-01-22 - Redacted - General FfS
+draft: false
+tags:
+  - finops
+  - raw-notes
+  - interviews
+Summary: Chat with Dir of FinOps, consultant work for multiple companies
+---
+
+**Date:** 2024-01-22
+**Name:** [[Redacted]]
+**Title:** Director of FinOps
+**Type:** [[Interviews]]
+
+# Processed Notes
+- Companies of all sizes choose to outsource their FinOps Practice to third-party companies
+	- Often it's just a for a second set of eyes—these companies already have an internal FinOps practice of some sort, but want to validate those recommendations with a "pro"
+- A daily cadence of checking cost-related alerts and monitors helps shorten the **money feedback loop**
+- There is a ton of opportunity for big savings in the Private Equity space. Can use FinOps to cut cloud bill across entire portfolio.
+
+## Related Chapters
+- [[Chapter 1. The circle of FinOps]]
+- [[Chapter 7. FinOps for Private Equity]]
+
+# Raw Notes
+- Larger customers coming to him for validation. They have their own team who is making recommendations, and **wants third party recommendations** and compare against their internal recommendations
+- Thinking about RIs and SPs in a more mature way than **most companies**
+- Set up alerts and monitors, *checking their costs for them daily and alert them on it*
+- Large companies code with cost in mind, rather than building and trying to remediate afterwards
+- **Hiring a third-party FinOps service** is often way more affordable for smaller companies
+- **Private Equity**, buy a company and cut costs across all their portfolio

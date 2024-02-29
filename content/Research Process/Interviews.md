@@ -9,6 +9,10 @@ Interviews are a [[Methods and tools|method]] I use to perform research for *Fin
 ## Notes from interviews
 When I take notes from interviews, I like to write in bullet-point form and jot down quick ideas or phrases. These may be incomplete thoughts, and incomprehensible to anyone else trying to parse the notes for themselves, but they'll trigger my memory to a topic or though I had during the interview.
 
+**Processing Notes**
+
+At some point after the interview (this can be immediately after, or several day/weeks/months later) I'll *process* these notes. This means reviewing the raw notes, highlighting key information, and summarizing important points in my own words in the Processed Notes section.
+
 ## Interview methodology
 Typically, I think about interviews as falling into two different categories: *casual* or *formal*.
 

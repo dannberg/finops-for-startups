@@ -1,6 +1,6 @@
 ---
 title: Page Title
-draft: true
+draft: false
 tags:
   - finops
 ---

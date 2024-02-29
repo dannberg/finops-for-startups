@@ -5,11 +5,19 @@ tags:
   - finops
   - raw-notes
   - interviews
+Summary:
 ---
-<% await tp.file.move("/Interviews/" + tp.date.now("YYYY-MM-DD") + " " + tp.file.title) %>
+<% await tp.file.move("content/Interviews/" + tp.date.now("YYYY-MM-DD") + " " + tp.file.title) %>
 **Date:** <% tp.date.now("YYYY-MM-DD") %>
 **Name:** 
 **Title:** 
+**Type:** [[Interviews]]
 
-# Notes
+# Processed Notes
+- 
+
+## Related Chapters
+- 
+
+# Raw Notes
 - 

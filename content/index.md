@@ -35,6 +35,7 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 
 ### [[Chapter 1. The circle of FinOps]]
 - FinOps in detail
+- Shortening the Money Feedback Loop
 - Inform phase
     - Tagging
     - Cost visibility and feedback loops
