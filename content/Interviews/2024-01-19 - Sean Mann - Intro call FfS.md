@@ -1,5 +1,5 @@
 ---
-title: 2024-02-29 - Redacted - Intro call FfS
+title: 2024-02-29 - Sean Mann - Intro call FfS
 draft: false
 tags:
   - finops
@@ -9,8 +9,8 @@ Summary:
 ---
 
 **Date:** 2024-01-19
-**Name:** [[Redacted]]
-**Title:** DevOps, SRE & FinOps Leader at [[Redacted]]
+**Name:** [Sean Mann]([https://www.linkedin.com/in/manns41078/](https://www.linkedin.com/in/manns41078/))
+**Title:** DevOps, SRE & FinOps Leader at Civis Analytics
 **Type:** [[Interviews]]
 
 # Processed Notes
