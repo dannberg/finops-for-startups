@@ -23,7 +23,7 @@ If you would like to get involved, you can:
 
 ## Getting Updates
 
-Alternately, if you just want updates about book progress, [sign up here](https://deft-thinker-5848.ck.page/5733f9e200).
+Alternately, if you just want updates about book progress, [sign up here](#) (coming soon).
 # Outline
 
 ### [[Chapter 0. Introduction]]
@@ -47,6 +47,7 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 - Operate phase
     - Automation
     - Unit economics
+- Individual people as entire departments
 
 ### [[Chapter 2. Cloud Provider Relationships for startups]]
 - Choosing a cloud provider

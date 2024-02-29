@@ -1,5 +1,5 @@
 ---
-title: 2024-02-29 - Scott Shulman - FinOps for Startups General
+title: 2024-02-29 - Scott Shulman
 draft: false
 tags:
   - finops
