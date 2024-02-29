@@ -1,5 +1,5 @@
 ---
-title: Chamter 0. Introduction
+title: Chapter 0. Introduction
 draft: false
 tags:
   - finops
