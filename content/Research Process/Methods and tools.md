@@ -18,7 +18,7 @@ Here is a collection of methods and tools that I'm using to both [[Book research
 
 I'm using Obsidian, a markdown text editor that I love, to take research notes and build this website. I've created [note templates](https://github.com/dannberg/finops-for-startups/tree/v4/templates) for different page types and chapters to speed up the process. I'm using [Quartz](https://quartz.jzhao.xyz) to turn these markdown notes into a static site and hosting everything on [Netlify](https://www.netlify.com), all for free.
 
-For research and networking, I'm active in the [FinOps Foundation](https://finops.org) Slack community (free for FinOps practitioners). Most [[interviews]] are conducted remote using a free [Zoom](https://zoom.us) account.
+For research and networking, I'm active in the [FinOps Foundation](https://finops.org) Slack community (free for FinOps practitioners). Most [[Interviews]] are conducted remote using a free [Zoom](https://zoom.us) account.
 
 Much of my research and note-taking methodology is a modified version of *Zettelkasten*, as described in the book *[How to Take Smart Notes](https://amzn.to/49V7cVD)* by Sönke Ahrens.
 

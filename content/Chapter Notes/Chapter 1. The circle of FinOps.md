@@ -1,5 +1,5 @@
 ---
-title: Notes - Chapter 1. The circle of FinOps
+title: Chapter 1. The circle of FinOps
 draft: false
 tags:
   - finops
