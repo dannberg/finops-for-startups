@@ -23,7 +23,7 @@ If you would like to get involved, you can:
 
 ## Getting Updates
 
-Alternately, if you just want updates about book progress, [sign up here](#) (coming soon).
+Alternately, if you just want updates about book progress, [sign up here](https://forms.gle/pA7NkcmFjn8M6rfB6).
 # Outline
 
 ### [[Chapter 0. Introduction]]
