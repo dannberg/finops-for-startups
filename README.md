@@ -60,6 +60,11 @@ To push local changes to Github:
 npx quartz sync
 ```
 
+To sync remote changes (make sure your git it up-to-date):
+```sh
+npx quartz sync --pull
+```
+
 To pull all remote files to *replace local files* (**warning:** this you will *lose all local changes*):
 ```sh
 git fetch origin
