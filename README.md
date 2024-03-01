@@ -19,7 +19,7 @@ FinOps for Startups explores how this can be beneficial to early-stage companies
 
 This Github repo and associated website is part of _another_ growing movement online. That movement goes by several names ("learning in public," "thinking in public," "doing in public," "building in public") but it's all pretty much the same thing.
 
-It's about publishing _while_ you're working, making both the process and the content available for public consultion. This practice has several benefits:
+It's about publishing _while_ you're working, making both the process and the content available for public consumption. This practice has several benefits:
 
 - accountability
 - enhanced critical thinking
@@ -27,7 +27,7 @@ It's about publishing _while_ you're working, making both the process and the co
 - transparency
 - your audience gains a sense of ownership
 
-While I am working on _FinOps for Startups_, I'm going to simultaniously **research in public**, by which I mean publish my notes on [finopsforstartups.com](https://finopsforstartups.com).
+While I am working on _FinOps for Startups_, I'm going to simultaneously **research in public**, by which I mean publish my notes on [finopsforstartups.com](https://finopsforstartups.com).
 
 ## About this site
 
@@ -37,7 +37,14 @@ This website is written and published using:
 - [Quartz](https://quartz.jzhao.xyz)
 - [Netlify](https://www.netlify.com/)
 
-Obsidian is a markdown notetaking application (which I use extensively, just [look at my blog](https://dannb.org/blog/)) and Quartz is a markdown-to-static-site generator purpose-built for Obsidian. Netflify is a simple and free static website host.
+Obsidian is a markdown note taking application (which I use extensively, just [look at my blog](https://dannb.org/blog/)) and Quartz is a markdown-to-static-site generator purpose-built for Obsidian. Netlify is a simple and free static website host.
+
+**Obsidian Setup**
+
+- Theme: [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Dark Mode
+- Plugins:
+	- [Templater](https://silentvoid13.github.io/Templater/introduction.html)
+	- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) (internal use only, does not render in Quartz)
 
 ## Using this repo
 
