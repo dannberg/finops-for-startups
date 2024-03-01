@@ -55,16 +55,19 @@ Fetch the changes from the upstream repository (Quartz):
 git fetch upstream
 ```
 
-To pull remote changes to local computer:
-```sh
-npx quartz sync --pull
-```
-
 To push local changes to Github:
 ```sh
 npx quartz sync
 ```
 
+To pull all remote files to *replace local files* (**warning:** this you will *lose all local changes*):
+```sh
+git fetch origin
+git reset --hard origin/v4
+git clean -fd
+```
+
+^ This fetches the latest changes from remote, hard reset local brach to match remote, then cleans untracked files. The last two commands *result in the loss of local changes*. Make sure you want that.
 ### Setting up on a new computer
 Currently using NPM version 10.2.4, so make sure to update to that version.
 
