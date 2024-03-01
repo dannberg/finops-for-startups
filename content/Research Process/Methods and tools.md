@@ -36,3 +36,9 @@ I'm currently focused primarily on research, but I'll be writing initial drafts 
 When I really want to focus and get something done, I'll work in [Pomodoros](https://en.wikipedia.org/wiki/Pomodoro_Technique) using the iOS app [Forest](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515).
 
 Writing is also happening in Obsidian. I experimenting with the [Longform](https://github.com/kevboh/longform) Obsidian plugin, but I'm not sure how much I love it yet. In the past, I've written in [Scrivener](https://www.literatureandlatte.com/scrivener/overview), but I just like Obsidian so much more so Obsidian it is.
+
+## Obsidian Setup
+- **Theme:** [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Dark Mode
+- **Plugins:**
+    - [Templater](https://silentvoid13.github.io/Templater/introduction.html)
+    - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) (internal use only, does not render in Quartz)
