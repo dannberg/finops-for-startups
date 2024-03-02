@@ -19,11 +19,11 @@ More specifically, I would love to connect with:
 
 If you would like to get involved, you can:
 - [Raise an issue](https://github.com/dannberg/finops-for-startups) on Github
-- Email me at [finopsforstartups@dannb.org](mailto:finopsforstartups@dannb.org)
+- Email me at [dann@finopsforstartups.com](dann@finopsforstartups.com)
 
 ## Getting Updates
 
-Alternately, if you just want updates about book progress, [sign up here](https://forms.gle/pA7NkcmFjn8M6rfB6).
+Alternately, if you just want updates about book progress, [sign up here](https://subscribe.finopsforstartups.com).
 # Outline
 
 ### [[Chapter 0. Introduction]]
