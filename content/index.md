@@ -19,7 +19,7 @@ More specifically, I would love to connect with:
 
 If you would like to get involved, you can:
 - [Raise an issue](https://github.com/dannberg/finops-for-startups) on Github
-- Email me at [dann@finopsforstartups.com](dann@finopsforstartups.com)
+- Email me at [dann@finopsforstartups.com](mailto:dann@finopsforstartups.com)
 
 ## Getting Updates
 
