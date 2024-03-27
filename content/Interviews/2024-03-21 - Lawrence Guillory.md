@@ -1,5 +1,5 @@
 ---
-title: 2024-03-21 Lawrence Guillory
+title: 2024-03-21 - Lawrence Guillory
 draft: false
 tags:
   - finops
@@ -14,15 +14,18 @@ Summary: Talking a bit about the structure of the book, re-thinking FinOps stage
 **Type:** [[Interviews]]
 
 # Processed Notes
+- Should group the information/advice by *stage* not *series*
+	- Pre-seed/Seed
+	- Growth Stage
+	- Scale stage
+
+## Related Chapters
 - [[Chapter 1. The circle of FinOps]]
 - [[Chapter 2. Cloud Provider Relationships for startups]]
 - [[Chapter 3. Adopting FinOps on Day One]]
 - [[Chapter 5. FinOps for Venture Capital Part I - VC Perspective]]
 - [[Chapter 6. FinOps for Venture Capital Part II - Startup Perspective]]
 - [[Chapter 7. FinOps for Private Equity]]
-
-## Related Chapters
-- 
 
 # Raw Notes
 - Serial founder. Had experience founding companies, worked with accelerators, advised numerous startups

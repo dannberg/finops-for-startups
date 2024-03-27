@@ -35,19 +35,9 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 
 ### [[Chapter 1. The circle of FinOps]]
 - FinOps in detail
+- It's about making conscious, informed decisions about where every cloud infra dollar is going
 - Shortening the Money Feedback Loop
-- Inform phase
-    - Tagging
-    - Cost visibility and feedback loops
-    - Allocation
-- Optimize phase
-    - What are you trying to do today
-    - Using less
-    - Paying less
-- Operate phase
-    - Automation
-    - Unit economics
-- Individual people as entire departments
+- 
 
 ### [[Chapter 2. Cloud Provider Relationships for startups]]
 - Choosing a cloud provider

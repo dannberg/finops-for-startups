@@ -7,6 +7,8 @@ tags:
 ---
 # Notes
 - FinOps in detail
+
+### From the FinOps Foundation:
 - Inform phase
     - Tagging
     - Cost visibility and feedback loops
@@ -19,3 +21,4 @@ tags:
     - Automation
     - Unit economics
 
+Re-thinking all this for Startups.
