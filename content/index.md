@@ -37,7 +37,6 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 - FinOps in detail
 - It's about making conscious, informed decisions about where every cloud infra dollar is going
 - Shortening the Money Feedback Loop
-- 
 
 ### [[Chapter 2. Cloud Provider Relationships for startups]]
 - Choosing a cloud provider
