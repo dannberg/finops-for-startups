@@ -62,6 +62,7 @@ Alternately, if you just want updates about book progress, [sign up here](https:
 - When is FinOps a priority for startups?
 - FinOps as part of due diligence
 - Helping your investments achieve their FinOps goals
+- Types of founders, and how to talk to each about FinOps
 
 ### [[Chapter 6. FinOps for Venture Capital Part II - Startup Perspective]]
 - When your investors will care about FinOps
