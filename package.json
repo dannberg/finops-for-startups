@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@clack/prompts": "^0.7.0",
-    "@floating-ui/dom": "^1.6.3",
+    "@floating-ui/dom": "^1.7.4",
     "@napi-rs/simple-git": "0.1.22",
     "async-mutex": "^0.5.0",
     "chalk": "^5.6.0",
