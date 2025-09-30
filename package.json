@@ -39,7 +39,7 @@
     "@napi-rs/simple-git": "0.1.22",
     "async-mutex": "^0.5.0",
     "chalk": "^5.6.0",
-    "chokidar": "^3.6.0",
+    "chokidar": "^4.0.3",
     "cli-spinner": "^0.2.10",
     "d3": "^7.9.0",
     "esbuild-sass-plugin": "^3.3.1",
